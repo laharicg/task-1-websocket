@@ -1,0 +1,30 @@
+{
+  "name": "task-1-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laharicg/task-1-websocket.git"
+  },
+  "keywords": [
+    "websocket",
+    "buttons",
+    "connections",
+    "enable",
+    "disable"
+  ],
+  "author": "Lahari Chandana G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laharicg/task-1-websocket/issues"
+  },
+  "homepage": "https://github.com/laharicg/task-1-websocket#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
